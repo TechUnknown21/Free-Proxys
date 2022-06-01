@@ -18,4 +18,4 @@ https://ultraviolet-node.techunknown21.repl.co/
 These are updated every day, if one is blocked or shut down, get another from here!
 <br>
 <br>
-<img src="https://techhelpforanyone.org/logo.png">
+<img src="https://techhelpforanyone.org/logo.png" width="100" height="100">
