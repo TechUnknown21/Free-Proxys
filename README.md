@@ -21,7 +21,7 @@ These are updated every day, if one is blocked or shut down, get another from he
 # Make your own proxy
 <br>
 <br>
-(https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/main/buttons/remade/replit.svg)](https://www.google.com)
+[![Run on Replit](https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/main/buttons/remade/replit.svg)](https://www.google.com)
 <br>
 <br>
 <a href="#">
