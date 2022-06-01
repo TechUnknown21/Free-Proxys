@@ -12,13 +12,13 @@
 <a href="https://ultraviolet-node.techunknown21.repl.co/" target="_blank">https://ultraviolet-node.techunknown21.repl.co/</a>
 <br>
 <br>
-# //IMPORTANT
+# IMPORTANT
 <br>
 <br>
 These are updated every day, if one is blocked or shut down, get another from here!
 <br>
 <br>
-## Make Your Own Proxy
+# Make Your Own Proxy
 <br>
 <br>
 <a href="https://www.replit.com/github/TechUnknown21/Ultraviolet-Node-Template">
