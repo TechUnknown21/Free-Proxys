@@ -1,15 +1,15 @@
 # Free Proxys
-<a href="https://mathhelpfornerds.tk" target="_blank" >https://mathhelpfornerds.tk</a>
+<a href="https://mathhelpfornerds.tk" target="_blank">https://mathhelpfornerds.tk</a>
 <br>
-<a href="https://anotsussite.tk">https://anotsussite.tk</a>
+<a href="https://anotsussite.tk" target="_blank">https://anotsussite.tk</a>
 <br>
-<a href="https://techhelpforanyone.org">https://techhelpforanyone.org</a>
+<a href="https://techhelpforanyone.org" target="_blank">https://techhelpforanyone.org</a>
 <br>
-<a href="https://agreatwebsite.tk">https://agreatwebsite.tk</a>
+<a href="https://agreatwebsite.tk" target="_blank">https://agreatwebsite.tk</a>
 <br>
-<a href="https://mathhelpforall.ml">https://mathhelpforall.ml</a>
+<a href="https://mathhelpforall.ml" target="_blank">https://mathhelpforall.ml</a>
 <br>
-<a href="https://ultraviolet-node.techunknown21.repl.co/">https://ultraviolet-node.techunknown21.repl.co/</a>
+<a href="https://ultraviolet-node.techunknown21.repl.co/" target="_blank">https://ultraviolet-node.techunknown21.repl.co/</a>
 <br>
 <br>
 //IMPORTANT
