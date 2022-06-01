@@ -18,9 +18,6 @@
 These are updated every day, if one is blocked or shut down, get another from here!
 <br>
 <br>
-# Make Your Own Proxys
-<br>
-<br>
 <a href="https://www.replit.com/github/TechUnknown21/Ultraviolet-Node-Template">
 <img src="https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/master/buttons/remade/replit.svg">
 </a>
