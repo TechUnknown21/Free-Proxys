@@ -12,10 +12,16 @@
 <a href="https://ultraviolet-node.techunknown21.repl.co/" target="_blank">https://ultraviolet-node.techunknown21.repl.co/</a>
 <br>
 <br>
-//IMPORTANT
+# //IMPORTANT
 <br>
 <br>
 These are updated every day, if one is blocked or shut down, get another from here!
+<br>
+<br>
+# Make your own proxy
+<br>
+<br>
+(https://raw.githubusercontent.com/BinBashBanana/deploy-buttons/main/buttons/remade/replit.svg) ] (https://www.google.com)
 <br>
 <br>
 <a href="#">
