@@ -21,4 +21,5 @@ These are updated every day, if one is blocked or shut down, get another from he
 <a href="#">
 <img src="https://techhelpforanyone.org/logo.png" width="300" height="300">
 </a>
-<button>sup</button>
+<p>This repository was made and developed by Tech Help For Anyone</p>
+https://techhelpforanyone.org 
