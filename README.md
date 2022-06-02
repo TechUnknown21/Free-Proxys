@@ -1,5 +1,7 @@
 # Free Proxys
-<a href="https://mathhelpfornerds.tk" target="_blank">https://mathhelpfornerds.tk</a>
+<a href="https://trashcleanuponline.ml
+" target="_blank">https://trashcleanuponline.ml
+</a>
 <br>
 <a href="https://anotsussite.tk" target="_blank">https://anotsussite.tk</a>
 <br>
