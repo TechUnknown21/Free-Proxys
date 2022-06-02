@@ -26,8 +26,3 @@ Make your own proxy if you know how:
 </a>
 <br>
 <br>
-<a href="#">
-<img src="https://techhelpforanyone.org/logo.png" width="300" height="300">
-</a>
-<p>This repository was made and developed by Tech Help For Anyone</p>
-https://techhelpforanyone.org 
