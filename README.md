@@ -26,3 +26,7 @@ Make your own proxy if you know how:
 </a>
 <br>
 <br>
+If you don't know how, go here
+<br>
+<br>
+https://github.com/TechUnknown21/How-to-make-a-proxy
